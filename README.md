@@ -1,4 +1,3 @@
-student of an educational insitution  
-cybersec, forensics, programming
+systems, cybersec, exploits
 
-c, java, and scala
+university student
